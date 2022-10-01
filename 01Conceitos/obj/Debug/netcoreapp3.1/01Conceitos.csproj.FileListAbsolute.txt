@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.exe
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.deps.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.dev.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfo.cs
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.genruntimeconfig.cache
