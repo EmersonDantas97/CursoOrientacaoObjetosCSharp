@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.AssemblyInfo.cs
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.exe
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.deps.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.runtimeconfig.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.runtimeconfig.dev.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.genruntimeconfig.cache
