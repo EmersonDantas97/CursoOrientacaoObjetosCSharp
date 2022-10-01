@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.AssemblyInfo.cs
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.exe
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.deps.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.runtimeconfig.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.runtimeconfig.dev.json
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\bin\Debug\netcoreapp3.1\03Exercicio.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.dll
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.pdb
+D:\EMERSON\Programacao\OrientacaoObjetosCSharp\03Exercicio\obj\Debug\netcoreapp3.1\03Exercicio.genruntimeconfig.cache
