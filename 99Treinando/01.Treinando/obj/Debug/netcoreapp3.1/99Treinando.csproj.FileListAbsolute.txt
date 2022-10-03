@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\bin\Debug\netcoreapp3.1\99Treinando.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\obj\Debug\netcoreapp3.1\99Treinando.genruntimeconfig.cache
