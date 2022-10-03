@@ -1,0 +1,4 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\02.Treinando\obj\Debug\netcoreapp3.1\02.Treinando.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\02.Treinando\obj\Debug\netcoreapp3.1\02.Treinando.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\02.Treinando\obj\Debug\netcoreapp3.1\02.Treinando.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\99Treinando\02.Treinando\obj\Debug\netcoreapp3.1\02.Treinando.csproj.CoreCompileInputs.cache
