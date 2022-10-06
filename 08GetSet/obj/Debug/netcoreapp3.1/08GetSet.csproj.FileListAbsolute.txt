@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\bin\Debug\netcoreapp3.1\08GetSet.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\08GetSet\obj\Debug\netcoreapp3.1\08GetSet.genruntimeconfig.cache
