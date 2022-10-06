@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\bin\Debug\netcoreapp3.1\10Heranca.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\10Heranca\obj\Debug\netcoreapp3.1\10Heranca.genruntimeconfig.cache
