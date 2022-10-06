@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\bin\Debug\netcoreapp3.1\06Encapsulamento.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\06Encapsulamento\obj\Debug\netcoreapp3.1\06Encapsulamento.genruntimeconfig.cache
