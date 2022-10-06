@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\bin\Debug\netcoreapp3.1\09This.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\09This\obj\Debug\netcoreapp3.1\09This.genruntimeconfig.cache
