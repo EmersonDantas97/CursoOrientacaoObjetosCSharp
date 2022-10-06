@@ -1,0 +1,13 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csprojAssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.runtimeconfig.dev.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\bin\Debug\netcoreapp3.1\07Construtor.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\07Construtor\obj\Debug\netcoreapp3.1\07Construtor.genruntimeconfig.cache
