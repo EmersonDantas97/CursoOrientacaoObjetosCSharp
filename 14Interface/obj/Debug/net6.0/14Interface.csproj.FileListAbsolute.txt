@@ -1,0 +1,15 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\bin\Debug\net6.0\14Interface.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\bin\Debug\net6.0\14Interface.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\bin\Debug\net6.0\14Interface.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\bin\Debug\net6.0\14Interface.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\bin\Debug\net6.0\14Interface.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.csproj.AssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\refint\14Interface.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\14Interface.genruntimeconfig.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\14Interface\obj\Debug\net6.0\ref\14Interface.dll
