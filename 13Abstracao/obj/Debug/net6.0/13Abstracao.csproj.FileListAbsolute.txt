@@ -1,0 +1,15 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\bin\Debug\net6.0\13Abstracao.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\bin\Debug\net6.0\13Abstracao.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\bin\Debug\net6.0\13Abstracao.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\bin\Debug\net6.0\13Abstracao.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\bin\Debug\net6.0\13Abstracao.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.csproj.AssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\refint\13Abstracao.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\13Abstracao.genruntimeconfig.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\13Abstracao\obj\Debug\net6.0\ref\13Abstracao.dll
