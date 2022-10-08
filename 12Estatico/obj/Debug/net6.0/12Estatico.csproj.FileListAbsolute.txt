@@ -1,0 +1,15 @@
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\bin\Debug\net6.0\12Estatico.exe
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\bin\Debug\net6.0\12Estatico.deps.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\bin\Debug\net6.0\12Estatico.runtimeconfig.json
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\bin\Debug\net6.0\12Estatico.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\bin\Debug\net6.0\12Estatico.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.csproj.AssemblyReference.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfoInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.AssemblyInfo.cs
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.csproj.CoreCompileInputs.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\refint\12Estatico.dll
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.pdb
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\12Estatico.genruntimeconfig.cache
+D:\EMERSON\Programacao\CursoOrientacaoObjetosCSharp\12Estatico\obj\Debug\net6.0\ref\12Estatico.dll
