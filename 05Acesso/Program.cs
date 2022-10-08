@@ -7,7 +7,7 @@ namespace _05Acesso
         static void Main(string[] args)
         {
             Produto p = new Produto();
-            p.nome = "teste"
+            p.nome = "teste";
         }
     }
 }
